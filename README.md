@@ -27,3 +27,5 @@ Emre Mert Ozdemir - **Programming & Level Design**
 Begum Mutluer - **3D & Game Art**
 
 Made with Unreal Engine. :tada:https://madmonki.itch.io/ghostie-hunt
+
+Ludum Dare: https://ldjam.com/events/ludum-dare/56/ghostie-hunt

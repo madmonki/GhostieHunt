@@ -1,7 +1,7 @@
 ## Ghostie Hunt
 
 
-You are a ghost hunter on a mission. But those ghosts are little friendly and cute. You have to get them before the time runs out! :timer: :ghost: 
+You are a ghost hunter on a mission. But those ghosts are little friendly and cute. You have to get them before the time runs out! :alarm_clock: :ghost: 
 
 > **WASD** - Move
 
